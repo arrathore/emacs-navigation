@@ -21,6 +21,18 @@
 		"default": "MacCtrl+P"
 	    },
 	    "description": "Move up a little"
+	},
+	"scroll-up-command": {
+	    "suggested_key": {
+		"default": "MacCtrl+V"
+	    },
+	    "description": "Scroll the page up almost one screen"
+	},
+	"scroll-down-command": {
+	    "suggested_key": {
+		"default": "Alt+V"
+	    },
+	    "description": "Scroll the page down almost one screen"
 	}
     }
 }
