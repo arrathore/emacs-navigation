@@ -32,6 +32,18 @@
 		"default": "Alt+V"
 	    },
 	    "description": "Scroll the page down almost one screen"
+	},
+	"forward-char": {
+	    "suggested_key": {
+		"default": "MacCtrl+F"
+	    },
+	    "description": "Move to the right a little"
+	},
+	"backward-char": {
+	    "suggested_key": {
+		"default": "MacCtrl+B"
+	    },
+	    "description": "Move to the left a little"
 	}
     }
 }
