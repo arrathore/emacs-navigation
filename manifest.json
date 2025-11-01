@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Emacs Navigation",
+  "version": "1.0",
+  "description": "Use Emacs-like keybinds to navigate webpages",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "next-line": {
+      "suggested_key": {
+        "default": "Ctrl+N"
+      },
+      "description": "Move down one line"
+    },
+    "previous-line": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+H"
+      },
+      "description": "Move up one line"
+    },
+  }
+}
