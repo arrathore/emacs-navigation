@@ -3,8 +3,7 @@
     "name": "Emacs Navigation",
     "version": "1.0",
     "description": "Use Emacs-like keybinds to navigate webpages",
-    "permissions": ["tabs", "scripting"],
-    "host_permissions": ["<all_urls>"],
+    "permissions": ["tabs", "scripting", "activeTab"],
     "background": {
 	"service_worker": "background.js",
 	"scripts": ["background.js"]
