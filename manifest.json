@@ -3,6 +3,9 @@
     "name": "Emacs Navigation for Firefox",
     "version": "1.0",
     "description": "Use Emacs-like keybinds to navigate webpages",
+    "icons": {
+	"32": "icons/page-32.png"
+    },
     "permissions": ["tabs", "scripting", "activeTab"],
     "background": {
 	"service_worker": "background.js",
