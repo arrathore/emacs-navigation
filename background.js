@@ -1,5 +1,3 @@
-browser.commands.getAll().then(console.log);
-
 browser.commands.onCommand.addListener(async (command) => {
     const [tab] = await browser.tabs.query({active: true, currentWindow: true});
     switch (command) {
