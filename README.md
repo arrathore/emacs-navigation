@@ -1,5 +1,5 @@
-Adds Emacs-like navigation shortcuts to Firefox!
-Currently only supported for Mac
+Adds Emacs-like navigation shortcuts to Firefox!  
+Currently only supported for Mac.
 
 Shortcuts:
 |Shortcut|Action|
