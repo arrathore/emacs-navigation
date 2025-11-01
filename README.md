@@ -1,3 +1,6 @@
+![Addon Icon](icons/page-32.png)
+# Emacs Navigation for Firefox
+
 Adds Emacs-like navigation shortcuts to Firefox!  
 Currently only supported for Mac.
 
