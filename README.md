@@ -4,6 +4,8 @@
 Adds Emacs-like navigation shortcuts to Firefox!  
 Currently only supported for Mac.
 
+Now available in the [Firefox Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/emacs-navigation-for-firefox/)!
+
 Shortcuts:
 |Shortcut|Action|
 |---|---|
